@@ -1,0 +1,7 @@
+1.今天晚上学习了Github 先在本地库做版本然后 git remote add origin 网址
+2.然后推送到github git push -u orgin mastar
+3.之后学习了从远程库里面下载克隆到本地
+4.git clone 网址
+5.然后在本地增添或者修改文件上传到远程库
+（先git add file      
+ 然后git commit -m '1' ）
